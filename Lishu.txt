@@ -3,3 +3,6 @@ Age : 1.6
 Gender : Female 
 Father : Sandesh D
 Monther : Sandhya S 
+GrandFather : GV Devaraju
+Grand Mother : Sundaramma BK 
+Uncle : Umesh D
