@@ -1,3 +1,5 @@
 Name : Lishu 
 Age : 1.6
 Gender : Female 
+Father : Sandesh D
+Monther : Sandhya S 
